@@ -59,8 +59,16 @@
     font-weight:600;
 
     transition: background-color 0.2s;
+    
 
+}
 
+.greenmargin{
+    border-bottom: 4px solid #05ee11;
+}
+
+.countdownButton img{
+    margin-left: 10px;
 }
 
 .countdownButton:not(:disabled):hover{
